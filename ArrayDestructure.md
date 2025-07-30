@@ -14,3 +14,10 @@ Set a default value
 
 To ignore a value 
 <img width="955" height="433" alt="image" src="https://github.com/user-attachments/assets/b7cd2404-f37a-4ca8-ab05-1d7a71a0ae1b" />
+
+Nested Array destructure
+<img width="1114" height="528" alt="image" src="https://github.com/user-attachments/assets/caa4f6d5-05ec-462e-ab21-754c67bc4518" />
+
+Rest Perameter in Array 
+<img width="1178" height="488" alt="image" src="https://github.com/user-attachments/assets/5d249894-9d43-4d25-9581-376358b899d8" />
+It must be use at the end 
