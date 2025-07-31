@@ -44,3 +44,27 @@ Nested Array destructure
 Rest Perameter in Array 
 <img width="1178" height="488" alt="image" src="https://github.com/user-attachments/assets/5d249894-9d43-4d25-9581-376358b899d8" />
 It must be use at the end 
+
+
+</br>
+</br>
+</br>
+
+Swaping Array 
+<img width="983" height="436" alt="image" src="https://github.com/user-attachments/assets/ffed418d-f419-47af-b38c-6694beb2e9d0" />
+
+</br>
+</br>
+</br>
+
+Merge Array 
+Merge Means joining two or more array together (Very Important)
+<img width="1098" height="492" alt="image" src="https://github.com/user-attachments/assets/9b93506b-314d-42b0-a4b1-d6ae2eef9826" />
+if we do it , then it will create a nested array , but we want a normal array 
+so for this , we need to spread the array first then join them together
+<img width="889" height="213" alt="image" src="https://github.com/user-attachments/assets/071432c8-6521-4969-910b-818c756aee8c" />
+
+</br>
+</br>
+</br>
+
